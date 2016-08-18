@@ -1,0 +1,17 @@
+{
+    "name": "ubuntucondensed-googlefont",
+    "license": "UFL",
+    "authors": [
+        "Dalton Maag"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ubuntucondensed-bower.git"
+    },
+    "description": "Ubuntu Condensed font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
